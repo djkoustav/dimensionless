@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 	<channel>
-		<title><![CDATA[DMSNLS Name]]></title>
-		<description><![CDATA[DMSNLS Description]]></description>
-		<link>www.dmsnls.com</link>
+		<title><![CDATA[DIMENSIONLESS DJ Podcast]]></title>
+		<description><![CDATA[DJ Koustav presents DIMENSIONLESS, the DJ Podcast featuring the dopest of EDM and the finest of Bollywood Dance Music. Introducing a new Electronic Dance Music Era for the Electronic Generation.]]></description>
+		<link>www.djkoustav.gq</link>
 		<image>
 			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6848944/6848944-1593536926313-78c5e694da1ed.jpg</url>
-			<title>DMSNLS Name</title>
-			<link>www.dmsnls.com</link>
+			<title>DIMENSIONLESS DJ Podcast</title>
+			<link>www.djkoustav.gq</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
 		<lastBuildDate>Wed, 01 Jul 2020 19:10:03 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/296b3f40/podcast/rss" rel="self" type="application/rss+xml"/>
-		<author><![CDATA[DMSNL Author]]></author>
-		<copyright><![CDATA[DMSNL Author]]></copyright>
+		<author><![CDATA[DJ Koustav]]></author>
+		<copyright><![CDATA[DJ Koustav]]></copyright>
 		<language><![CDATA[lo]]></language>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
-		<itunes:author>DMSNL Author</itunes:author>
-		<itunes:summary>DMSNLS Description</itunes:summary>
+		<itunes:author>DJ Koustav</itunes:author>
+		<itunes:summary>DJ Koustav presents DIMENSIONLESS, the DJ Podcast featuring the dopest of EDM and the finest of Bollywood Dance Music. Introducing a new Electronic Dance Music Era for the Electronic Generation.</itunes:summary>
 		<itunes:type>episodic</itunes:type>
 		<itunes:owner>
-			<itunes:name>DMSNL Author</itunes:name>
-			<itunes:email></itunes:email>
+			<itunes:name>DJ Koustav</itunes:name>
+			<itunes:email>djkoustavofficial@gmail.com</itunes:email>
 		</itunes:owner>
-		<itunes:explicit>No</itunes:explicit>
-		<itunes:category text="Business">
+		<itunes:explicit>Yes</itunes:explicit>
+		<itunes:category text="Music">
 			<itunes:category text="Non-Profit"/>
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6848944/6848944-1593536926313-78c5e694da1ed.jpg"/>
